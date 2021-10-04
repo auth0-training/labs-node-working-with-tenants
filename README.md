@@ -19,7 +19,7 @@ To get started using this lab, ensure you have met the minimum [requirements](#r
 
 1. Clone this repository to your local machine.
   ```bash
-  git clone https://github.com/auth0-training/labs-node-tour-a-tenant.git
+  git clone https://github.com/auth0-training/labs-node-working-with-tenants.git
   ```
 2. Start Docker Desktop.
 3. Open the directory containing the source code in VSCode.
