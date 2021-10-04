@@ -1,0 +1,31 @@
+{
+   // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    // example
+    // {
+    //   "type": "node", //node process
+    //   "request": "launch", // start
+    //   "name": "Launch API", // menu name
+    //   "skipFiles": [
+    //     "<node_internals>/**" // magic files releated to node ignore
+    //   ],
+    //   "runtimeExecutable": "npm", // use npm to start the node process
+    //   "runtimeArgs": ["run", "api:start"], // pass these parameters to npm
+    //   "port": 9005, // use this port for the debugger
+        // "presentation": {
+        //   "hidden":true //hide from debug menu
+        // }
+    // },
+  ],
+  "compounds": [// allow you to start multiple apps
+    // {
+    //   "name": "Launch All", // menu name
+    //   "configurations": [ // list of things to launch
+    //     "Launch API" // as many named configurations as needed
+    //   ]
+    // }
+  ]
+}

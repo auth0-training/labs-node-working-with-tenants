@@ -1,0 +1,19 @@
+{
+  "name": "Lab Node Template",
+  "version":"0.0.1",
+  "resources": "resources.yml",
+  "postConfigureTour": ".auth0/lab/guides/main.tour",
+  "clients": [
+    {
+      "name":"Lab: SPA",
+      "directory": "src/spa-app",
+      "env": {
+        "API_URL": "Lab: API",
+        "AUTH0_DOMAIN": "$tenant_domain",
+        "CLIENT_ID": "$client_id",
+        "PORT": 8000
+      }
+    }
+  ],
+  "resourceServers": []
+}
