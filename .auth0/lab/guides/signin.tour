@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "0: signin",
+  "steps": [
+    {
+      "file": "README.md",
+      "description": "## Sign this Environment into Your Labs Tenant\nBefore getting started, you'll need to sign this Environment into your Auth0 account under the labs tenant. \n\n**IMPORTANT**: If you have not already created a labs tenant, please see the Create a Tenant lab for instructions to do so. \n\n1. #### Click [here](command:auth0.auth.signIn) to log the Auth0 extension in this environment into your Auth0 tenant. \n     A browser window will open requesting that you confirm that the code shown matches the one shown in the lower right hand side of your vscode window.\n1. #### Confirm that the values match, then click the **Confirm** button.\n     ![create-1](./.auth0/lab/guides/images/create-1.gif)\n\n     ![create-0](./.auth0/lab/guides/images/create-0.gif)\n1. #### Select your labs tenant and click Accept.\n     ![select-0](./.auth0/lab/guides/images/select-0.gif)\n1. #### You should see a success message. Go ahead and close the browser tab.\nNext, you'll learn a little about working with tenants in Auth0.",
+      "line": 1
+    }
+  ]
+}
