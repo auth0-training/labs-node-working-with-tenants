@@ -1,19 +1,8 @@
 {
-  "name": "Lab Node Template",
-  "version":"0.0.1",
-  "resources": "resources.yml",
+  "name": "Lab Node Tour a Tenant",
+  "version":"1.1.0",
+  "unauthenticatedTour": ".auth0/lab/guides/signin.tour",
   "postConfigureTour": ".auth0/lab/guides/main.tour",
-  "clients": [
-    {
-      "name":"Lab: SPA",
-      "directory": "src/spa-app",
-      "env": {
-        "API_URL": "Lab: API",
-        "AUTH0_DOMAIN": "$tenant_domain",
-        "CLIENT_ID": "$client_id",
-        "PORT": 8000
-      }
-    }
-  ],
+  "clients": [],
   "resourceServers": []
 }
