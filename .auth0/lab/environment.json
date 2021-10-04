@@ -2,7 +2,7 @@
   "name": "Lab Node Tour a Tenant",
   "version":"1.1.0",
   "unauthenticatedTour": ".auth0/lab/guides/signin.tour",
-  "postConfigureTour": ".auth0/lab/guides/main.tour",
+  "postConfigureTour": ".auth0/lab/guides/working-with-tenants.tour",
   "clients": [],
   "resourceServers": []
 }
