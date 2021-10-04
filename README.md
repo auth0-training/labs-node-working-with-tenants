@@ -1,8 +1,8 @@
 [![Auth0 Training](https://user-images.githubusercontent.com/73120/125103885-a2bb5d80-e091-11eb-8084-383003f1e484.png "Auth0 Training")](https://training.auth0.com)
 
-# Lab Node Tour a Tenant
+# Lab Node Working with Tenants
 
-An auth0 training lab touring your auth0 tenant.
+An auth0 training lab touring your auth0 tenants.
 
 > Note: This lab template is an experimental release, and is built on a best-efforts basis by some Auth0 developers in their available innovation time. It is open-source licensed and free to use, and is not covered by any Auth0 Terms of Service or Agreements. If you have issues with this template you can engage with the project's developer community through the repository GitHub Issues list, or contribute fixes and enhancements of your own via a Pull Request.
 ### Requirements
