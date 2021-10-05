@@ -15,7 +15,7 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"EditorConfig.EditorConfig",
-    "esbenp.prettier-vscode",
+    	"esbenp.prettier-vscode",
 		"hjb2012.vscode-es6-string-html",
 		"vsls-contrib.codetour",
 		"mikestead.dotenv",
@@ -26,7 +26,10 @@
 	"forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
+	// Use this to install dependencies for the lab only
 	"postCreateCommand": "npm install",
+	// Use this to install dependencies for the lab and sample apps in the source directory
+	//"postCreateCommand": "npm install && npm run init",
 
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "node"
