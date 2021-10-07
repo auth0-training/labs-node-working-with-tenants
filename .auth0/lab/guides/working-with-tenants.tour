@@ -27,6 +27,22 @@
       "description": "## 3. View users\n\nAuth0's cloud-hosted database stores a variety of information about your users that is accessible to you.  \n\n1. #### In the left-hand navigation, click **User Management**. The navigation expands to show **Users** and **Roles**\n1. #### Click **Users**. \n    The Users list page is displayed.  \n    ![tenants-8](./.auth0/lab/guides/images/tenants-8.gif)  \n    \n    You may be surprised to see no users listed.  \n\n    Since you're logged in to the Auth0 Dashboard, surely you're a user, right?  \n    \n    Nope! Actually, you're a **Tenant Member** with the role of **Admin**.\n\n    Tenant Admins can be viewed in the Tenant settings. \n\n1. #### Click on the upper left-hand dropdown menu, then **Settings**, and finally the **Tenant Members** tab.   \n    ![tenants-9](./.auth0/lab/guides/images/tenants-9.gif)  \n    Your account is listed here as the only Admin, but you can invite others to administer this tenant by sending them an invitation email.  \n\n    Finally, you can review the user profile for the currently logged in Tenant Admin (you!).   \n    \n1. #### Click on the upper right-hand user profile image, then **Your profile**. \n    Your Admin profile is displayed.  \n    ![tenants-10](./.auth0/lab/guides/images/tenants-10.gif)  "
     },
     {
+      "title": "Install extensions",
+      "description": ""
+    },
+    {
+      "title": "Search and view logs",
+      "description": ""
+    },
+    {
+      "title": "Create a staging tenant",
+      "description": ""
+    },
+    {
+      "title": "Locate help and support",
+      "description": ""
+    },
+    {
       "file": "README.md",
       "line": 1,
       "title": "Recap",
