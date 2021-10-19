@@ -26,9 +26,9 @@
     "labs"
   ],
   "dependencies": {
-    "concurrently": "^6.2.1",
-    "eslint": "^7.32.0",
-    "prettier": "^2.3.2"
+    "concurrently": "^6.3.0",
+    "eslint": "^8.0.1",
+    "prettier": "^2.4.1"
   },
   "prettier": {
     "printWidth": 80,
