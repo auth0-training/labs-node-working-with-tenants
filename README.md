@@ -11,7 +11,7 @@ You'll need an Auth0 account. If you do not already have one, you can create a f
 
 This lab assumes the user is using [Visual Studio Code](https://code.visualstudio.com/download) and [Docker Desktop](https://www.docker.com/products/docker-desktop).
 
-The [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension needs to be installed in VSCode.
+The [Remote - Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) extension needs to be installed in VSCode.
 
 ### Getting Started
 
