@@ -12,9 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/auth0-training/labs-node-template.git"
   },
-  "scripts": {
-
-  },
+  "scripts": {},
   "keywords": [
     "auth0",
     "oauth2",
@@ -26,9 +24,9 @@
     "labs"
   ],
   "dependencies": {
-    "concurrently": "^7.0.0",
-    "eslint": "^8.9.0",
-    "prettier": "^2.5.1"
+    "concurrently": "^7.3.0",
+    "eslint": "^8.20.0",
+    "prettier": "^2.7.1"
   },
   "prettier": {
     "printWidth": 80,
