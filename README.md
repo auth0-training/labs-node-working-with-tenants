@@ -26,6 +26,7 @@ This hands-on lab walks learners through setting up Auth0 tenants. Learners will
 - [Customize the Login Experience](https://github.com/auth0-training/labs-node-customize-the-login-experience-ilt)
 - [Create a Single Page Application](https://github.com/auth0-training/labs-node-working-with-spa-applications)
 - [Authorization Code Flow with PKCE](https://github.com/auth0-training/labs-node-oidc-auth-code-with-pkce-trace-ilt)
+- [Working with Multi-factor Authentication](https://github.com/auth0-training/labs-node-working-with-multi-factor-authentication)
 
 ## What is Auth0?
 
