@@ -5,7 +5,7 @@
     {
       "file": "",
       "line": 1,
-      "description": "## Here's what you'll do:\n\n1. #### Create a new Tenant\n1. #### Navigate within your Tenant\n1. #### Create a second Tenant to support SDLC (Systems Development Lifecycle)\n1. #### Locate documentation and support resources from your tenant",
+      "description": "## Here's what you'll do:\n\n1. #### Create a new Tenant\n1. #### Navigate within your Tenant\n1. #### Create a second Tenant to support SDLC (Software Development Lifecycle)\n1. #### Locate documentation and support resources from your tenant",
       "title": "What you'll do"
     },
     {
@@ -60,7 +60,7 @@
       "file": "",
       "line": 1,
       "title": "Recap",
-      "description": "## Recap\n\nIn this lab, you:\n\n*   Created a tenant name prefixed with “dev-” by default.\n*   Located and explored your tenant settings and changed the friendly name of your “dev-” tenant.\n*   Located where your users will be listed for this tenant.\n*   Located where tenant extensions are listed.\n*   Located where log events are listed and inspected the log event generated when you changed your tenant’s friendly name.\n*   Created a second tenant prefixed “test-”.\n*   Switched between your tenants.\n*   Located Auth0 Documentation, API explorers, and Support center."
+      "description": "## Recap\n\nIn this lab, you:\n\n*   Created a tenant name prefixed with “dev-” to indicate the stage.\n*   Located and explored your tenant settings and changed the friendly name of your “dev-” tenant.\n*   Located where your users will be listed for this tenant.\n*   Located where tenant extensions are listed.\n*   Located where log events are listed and inspected the log event generated when you changed your tenant’s friendly name.\n*   Created a second tenant prefixed “test-”.\n*   Switched between your tenants.\n*   Located Auth0 Documentation, API explorers, and Support center.\n\nTo wrap up, click [here](command:auth0.auth.signOut) to sign out of your Auth0 tenant. "
     }
   ]
 }
