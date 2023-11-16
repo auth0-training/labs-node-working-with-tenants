@@ -54,7 +54,7 @@
       "file": "",
       "line": 1,
       "title": "Recap",
-      "description": "## Recap\n\nIn this lab, you:\n\n*   Explored your default *dev-* tenant, explored its settings, and updated the friendly name.\n*   Identified the types of environment tags and their purposes.\n*   Located where your users will be listed for this tenant.\n*   Located where tenant extensions are listed.\n*   Located where log events are listed and inspected the log event generated when you changed your tenant’s friendly name..\n*   Located Auth0 Documentation, API explorers, and Support center.\n*   Identified how to create multiple tenants to support the Software Development Lifecycle (SDLC).\n\nTo wrap up, click [here](command:auth0.auth.signOut) to sign out of your Auth0 tenant. "
+      "description": "## Recap\n\nIn this lab, you:\n\n*   Explored your default *dev-* tenant, explored its settings, and updated the friendly name.\n*   Identified the types of environment tags and their purposes.\n*   Located where your users will be listed for this tenant.\n*   Located where tenant extensions are listed.\n*   Located where log events are listed and inspected the log event generated when you changed your tenant’s friendly name.\n*   Located Auth0 Documentation, API explorers, and Support center.\n*   Identified how to create multiple tenants to support the Software Development Lifecycle (SDLC).\n\nTo wrap up, click [here](command:auth0.auth.signOut) to sign out of your Auth0 tenant. "
     }
   ]
 }
