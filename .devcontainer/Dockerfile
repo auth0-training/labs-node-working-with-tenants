@@ -1,6 +1,8 @@
-# [Choice] Node.js version: 16, 14, 12
-ARG VARIANT="16-bullseye"
-FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}
+# See here for image contents: https://github.com/devcontainers/images/blob/22ce794a06cb34e12674d6aaf5e4549f6ab8ee4e/src/javascript-node/.devcontainer/Dockerfile
+
+# [Choice] Node.js version: 18, 20
+ARG VARIANT="latest"
+FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:${VARIANT}
 
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \

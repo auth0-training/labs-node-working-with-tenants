@@ -11,21 +11,11 @@ This hands-on lab walks learners through setting up Auth0 tenants. Learners will
 
 ## Accessing and Working with Auth0 Labs
 
-1. **Navigate to the lab repository:** Find the lab you want to work with and open its repository on GitHub. You can find a list of links for the labs in this course at the end of this document.
-2. **Fork the lab to your GitHub account:** Click the "Fork" button located in the top right corner of the GitHub page. On the resulting page, under "Owner," select the dropdown menu and choose yourself as the owner for the forked repository. Then click the “Create fork” button. After a moment or two, you'll land on your fork of the repository. This fork now belongs to you, and you can revisit it later at any time.
-3. **Open the lab in a Codespace:** From the “Code” dropdown menu, toggle to the Codespaces tab. Click the plus sign to create and open the lab in a Codespace. A new tab will open, and Codespaces will begin configuring the lab environment. Wait for the environment to finish building.
-4. **Begin working with the lab:** Once the environment is ready you'll see a Codetour popup with instructions for connecting the lab to your Auth0 account. This can take some time, as the environment is installing several plugins to facilitate the lab. Once it is complete, you can open the Codetour to view all steps using the panel in the lower right. Follow the lab instructions (clicking to configure, selecting next, inserting code, etc.) in order to complete the lab.
+1. **Fork this lab repo to your GitHub account:** Click the "Fork" button located in the top right corner of the GitHub page. On the resulting page, under "Owner," select the dropdown menu and choose yourself as the owner for the forked repository. Then click the “Create fork” button. After a moment or two, you'll land on your fork of the repository. This fork now belongs to you, and you can revisit it later at any time.
+2. **Open the lab repo in a Codespace:** From the “Code” dropdown menu, toggle to the Codespaces tab. Click the plus sign to create and open the lab in a Codespace. A new tab will open, and Codespaces will begin configuring the lab environment. Wait for the environment to finish building.
+3. **Begin working with the lab:** Once the environment is ready you'll see a Codetour popup with instructions for connecting the lab to your Auth0 account. This can take some time, as the environment is installing several plugins to facilitate the lab. Once it is complete, you can open the Codetour to view all steps using the panel in the lower right. Follow the lab instructions (clicking to configure, selecting next, inserting code, etc.) in order to complete the lab.
+4. **If you'd like to save your work to your forked lab repo:** You can commit and push your changes to your fork (See: [Using Source Control in Your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/using-source-control-in-your-codespace)).
 5. **IMPORTANT: Close the Codespace when you're finished with the lab:** Codespaces come with a set amount of free usage. To avoid using all of your free use allocation, be sure to return to the forked repo, select the "Code" dropdown, select the dots next to your open Codespace, and select "Delete." This will not delete your forked repository. You can keep that forever, and open a new Codespace whenever you like. 
- 
-## Labs in this Course
-
-- [Create a Tenant](https://github.com/auth0-training/labs-node-working-with-tenants)
-- [Create an Application](https://github.com/auth0-training/labs-node-create-an-application-ilt)
-- [Working with Connections](https://github.com/auth0-training/labs-node-working-with-connections-ilt)
-- [Working with the User Profile + Management API](https://github.com/auth0-training/labs-node-working-with-the-user-profile-ilt)
-- [Customize the Login Experience](https://github.com/auth0-training/labs-node-customize-the-login-experience-ilt)
-- [Create a Single Page Application](https://github.com/auth0-training/labs-node-working-with-spa-applications)
-- [Authorization Code Flow with PKCE](https://github.com/auth0-training/labs-node-oidc-auth-code-with-pkce-trace-ilt)
 
 ## What is Auth0?
 
