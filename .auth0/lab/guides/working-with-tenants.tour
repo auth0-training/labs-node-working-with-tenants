@@ -5,7 +5,7 @@
     {
       "file": "",
       "line": 1,
-      "description": "## Here's what you'll do:\n\n1. #### Navigate through your default tenant and familiarize yourself with tenant settings\n1. #### Create a production tenant to support the software development lifecycle (SDLC)\n1. #### Locate documentation and support resources from your tenant",
+      "description": "## Here's what you'll do:\n\n1. #### Navigate through your default tenant and familiarize yourself with tenant settings\n1. #### Learn about tenant environment tags and how they support the software development lifecycle (SDLC)\n1. #### Locate documentation and support resources from your tenant",
       "title": "What you'll do"
     },
     {
