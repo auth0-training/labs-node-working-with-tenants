@@ -1,12 +1,11 @@
-[![Auth0 Training](https://cdn.auth0.com/website/training/labs/ilt/auth0training-okta.png "Auth0 Training by Okta")](https://training.auth0.com)
 
 # Lab Node Working with Tenants
 
-This hands-on lab walks learners through setting up Auth0 tenants. Learners will set up tenants to support the SDLC (System Development Lifecycle), get acquainted with tenant navigation, and cover several tenant features.
+This [Okta Training](https://www.okta.com/training/) hands-on lab walks learners through setting up Auth0 tenants. Learners will set up tenants to support the SDLC (System Development Lifecycle), get acquainted with tenant navigation, and cover several tenant features.
 
 ## Requirements
 
-1. A GitHub account: Our labs use GitHub Codespaces, so you'll need a GitHub account to access them. Create a free account [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account).
+1. A GitHub account: Our labs use GitHub Codespaces, so you'll need a GitHub account to access them. **Note to internal Okta employees: Do NOT use your EMU (Enterprise-managed user) account since Codespaces are disabled.** Create a free account [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account). 
 2. An Auth0 account: You'll also need an Auth0 account. If you do not already have one, you can create a free one [here](https://auth0.com/signup).
 
 ## Accessing and Working with Auth0 Labs
