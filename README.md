@@ -1,5 +1,5 @@
 
-# Get Started with Tenants
+# Lab: Get Started with Tenants
 
 This [Okta Training](https://www.okta.com/training/) hands-on lab walks learners through setting up Auth0 tenants. Learners will set up tenants to support the SDLC (System Development Lifecycle), get acquainted with tenant navigation, and cover several tenant features.
 
